@@ -1,0 +1,2 @@
+# IPO_Analysis
+For our analysis, we need to find out which companies give more profit when the stocks are sold. For this purpose, important features taken into consideration are Bid Price From, Bid Price To, NSE Listing day open, NSE SME Listing day open, BSE Listing day open, BSE SME Listing day open. These features will be useful for estimation of profit procured by comparing bidding prices and Listing day gains.
